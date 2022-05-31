@@ -14,6 +14,6 @@ Que vamos a explicar?
 
 4⃣ Practicando en REMIX IDE
 
-Youtube: 
+Youtube: https://youtu.be/2Wu-Jw_jDIs
 
 ![funciones av insta](https://user-images.githubusercontent.com/101588200/171137946-dbfc25e5-1dee-44c8-a487-d69b5bf9acd5.png)
